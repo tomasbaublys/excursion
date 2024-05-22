@@ -29,3 +29,7 @@ p {
 footer {
     text-align: right;
 }
+
+img {
+    overflow: hidden;
+}
